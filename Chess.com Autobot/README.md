@@ -28,6 +28,8 @@ A lightweight system to connect Chess.com live and bot games with a local Stockf
    ```bash
    stockfish --help
    ```
+4. Ensure these are installed:
+   ```sudo apt-get install python3-tk python3-dev```
 
 ## Calibration & Backend Setup
 1. Run the Python backend:
